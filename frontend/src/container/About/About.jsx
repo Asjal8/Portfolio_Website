@@ -7,18 +7,22 @@ const abouts = [
   {
     title: "I Know That",
     description: "Good Design",
+    imgUrl: "",
   },
   {
     title: "means",
     description: "Good Business",
+    imgUrl: "",
   },
   {
     title: "means",
     description: "Good Business",
+    imgUrl: "",
   },
   {
     title: "means",
     description: "Good Business",
+    imgUrl: "",
   },
 ];
 
